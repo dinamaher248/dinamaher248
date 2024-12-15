@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dina+Maher!+🚀;Flutter%20Developer;" />
-    <img align="right" alt="MyLife" width="250" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif?cid=790b7611rb8cp36foa8zqipr0yzqyv3d79uoce4fn7lbxott&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+    <img align="right" alt="MyLife" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z6cGl3dTRqYm1teGVuNHpoaWRhdGZ5azEwdWVlbnowN3dlazk0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.webp">
 </div>
 <p align="center">
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=550px height=95px>
